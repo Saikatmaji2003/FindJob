@@ -9,8 +9,8 @@ const filterData = [
     array: ["Delhi NCR", "Bangalore", "Pune", "Mumbai","Kolkata"]
   },
   {
-    filterType: "Industry",
-    array: ["Frontend Developer", "Backend Developer", "Fullstack Developer", "Devops Developer"]
+    filterType: "Position",
+    array: ["Frontend Developer", "Backend Developer", "Fullstack Developer", "Devops Engineer"]
   }
 ]
 
